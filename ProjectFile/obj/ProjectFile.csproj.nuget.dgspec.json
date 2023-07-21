@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\1.Routine\\elFinder\\ProjectFile\\ProjectFile\\ProjectFile.csproj": {}
+    "D:\\GitPersonal\\ProjectFile\\ProjectFile\\ProjectFile.csproj": {}
   },
   "projects": {
-    "D:\\1.Routine\\elFinder\\ProjectFile\\ProjectFile\\ProjectFile.csproj": {
+    "D:\\GitPersonal\\ProjectFile\\ProjectFile\\ProjectFile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1.Routine\\elFinder\\ProjectFile\\ProjectFile\\ProjectFile.csproj",
+        "projectUniqueName": "D:\\GitPersonal\\ProjectFile\\ProjectFile\\ProjectFile.csproj",
         "projectName": "ProjectFile",
-        "projectPath": "D:\\1.Routine\\elFinder\\ProjectFile\\ProjectFile\\ProjectFile.csproj",
+        "projectPath": "D:\\GitPersonal\\ProjectFile\\ProjectFile\\ProjectFile.csproj",
         "packagesPath": "C:\\Users\\tructd\\.nuget\\packages\\",
-        "outputPath": "D:\\1.Routine\\elFinder\\ProjectFile\\ProjectFile\\obj\\",
+        "outputPath": "D:\\GitPersonal\\ProjectFile\\ProjectFile\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
