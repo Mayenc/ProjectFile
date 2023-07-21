@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "c96KVpt9WHoqjsy9+fuFp8XDyFrfHje0RdgpsC03tP4=",
+  "Hash": "sNjSKCaYnd7xbKW20XCCr/MhpjUcyFrA8SHIGaJuTUs=",
   "Source": "ProjectFile",
   "BasePath": "_content/ProjectFile",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\GitPersonal\\ProjectFile\\ProjectFile\\wwwroot\\files\\0a80b805-f6a3-410a-8f7f-d6e422d328c7_clipdrop-cleanup.jpg",
+      "SourceId": "ProjectFile",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitPersonal\\ProjectFile\\ProjectFile\\wwwroot\\",
+      "BasePath": "_content/ProjectFile",
+      "RelativePath": "files/0a80b805-f6a3-410a-8f7f-d6e422d328c7_clipdrop-cleanup.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\0a80b805-f6a3-410a-8f7f-d6e422d328c7_clipdrop-cleanup.jpg"
+    },
+    {
+      "Identity": "D:\\GitPersonal\\ProjectFile\\ProjectFile\\wwwroot\\files\\1.jpg",
+      "SourceId": "ProjectFile",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitPersonal\\ProjectFile\\ProjectFile\\wwwroot\\",
+      "BasePath": "_content/ProjectFile",
+      "RelativePath": "files/1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\1.jpg"
     },
     {
       "Identity": "D:\\GitPersonal\\ProjectFile\\ProjectFile\\wwwroot\\js\\site.js",

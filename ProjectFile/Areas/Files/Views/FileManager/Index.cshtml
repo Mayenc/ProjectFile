@@ -1,4 +1,4 @@
-﻿<h1>FILE MANAGER</h1><div id="elfinder"></div>
+﻿<div id="elfinder"></div>
 
 @section Scripts {
     <link rel="stylesheet" href="~/lib/jqueryui/themes/base/theme.css" />
@@ -26,10 +26,11 @@
             });
 
             var options = {
-                baseUrl: "/lib/elfinder/",
-                url: "/el-finder-file-system/connector",
+                baseUrl: "@Url.Content("~/lib/elfinder/")",
+                url: "@Url.Action("Connector")",
                 rememberLastDir: false,
                 commands: myCommands,
+                height: "100%",
                 lang: 'vi',
                 uiOptions: {
                     toolbar: [

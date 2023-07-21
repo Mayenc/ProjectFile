@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "a0mpvsb8YQB0mFqRRAVzr6B/hHRXVSsz+YmKiHMiw0mwP9yjaGm6kB3ms011EwbYsQIw7oWT9aXeISVCzNfrKw==",
+  "dgSpecHash": "x+3ozcltcsV1Y/pLmEqoPaMz5HIs6Dv4c17wqw10iAPmf8nGi5hkl5VNFrhHlkatYTOIeBiQTfZcwZBSqSvL+g==",
   "success": true,
   "projectFilePath": "D:\\GitPersonal\\ProjectFile\\ProjectFile\\ProjectFile.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tructd\\.nuget\\packages\\elfinder.net.core\\1.5.0\\elfinder.net.core.1.5.0.nupkg.sha512",
+    "C:\\Users\\tructd\\.nuget\\packages\\elfinder.netcore\\1.3.6\\elfinder.netcore.1.3.6.nupkg.sha512",
     "C:\\Users\\tructd\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\tructd\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\tructd\\.nuget\\packages\\humanizer.core.af\\2.14.1\\humanizer.core.af.2.14.1.nupkg.sha512",

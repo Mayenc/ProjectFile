@@ -458,3 +458,5 @@ D:\GitPersonal\ProjectFile\ProjectFile\obj\Debug\net6.0\refint\ProjectFile.dll
 D:\GitPersonal\ProjectFile\ProjectFile\obj\Debug\net6.0\ProjectFile.pdb
 D:\GitPersonal\ProjectFile\ProjectFile\obj\Debug\net6.0\ProjectFile.genruntimeconfig.cache
 D:\GitPersonal\ProjectFile\ProjectFile\obj\Debug\net6.0\ref\ProjectFile.dll
+D:\GitPersonal\ProjectFile\ProjectFile\bin\Debug\net6.0\elFinder.NetCore.dll
+D:\GitPersonal\ProjectFile\ProjectFile\obj\Debug\net6.0\ProjectFile.MvcApplicationPartsAssemblyInfo.cs

@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\GitPersonal\\ProjectFile\\ProjectFile\\wwwroot\\files\\0a80b805-f6a3-410a-8f7f-d6e422d328c7_clipdrop-cleanup.jpg",
+      "PackagePath": "staticwebassets\\files\\0a80b805-f6a3-410a-8f7f-d6e422d328c7_clipdrop-cleanup.jpg"
+    },
+    {
+      "Id": "D:\\GitPersonal\\ProjectFile\\ProjectFile\\wwwroot\\files\\1.jpg",
+      "PackagePath": "staticwebassets\\files\\1.jpg"
+    },
+    {
       "Id": "D:\\GitPersonal\\ProjectFile\\ProjectFile\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

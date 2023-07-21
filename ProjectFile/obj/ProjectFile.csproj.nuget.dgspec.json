@@ -55,6 +55,10 @@
             "elFinder.Net.Core": {
               "target": "Package",
               "version": "[1.5.0, )"
+            },
+            "elFinder.NetCore": {
+              "target": "Package",
+              "version": "[1.3.6, )"
             }
           },
           "imports": [
